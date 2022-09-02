@@ -1,0 +1,2 @@
+huanyu_joy_jetson
+-DCATKIN_DEVEL_PREFIX=/home/huanyu/github/huanyu_demo/devel -DCMAKE_INSTALL_PREFIX=/home/huanyu/github/huanyu_demo/install -G Unix Makefiles
